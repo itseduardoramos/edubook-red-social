@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/edubook-red-social/static/js/main.5e158b50.js",
+    "static/media/logo.svg": "/edubook-red-social/static/media/logo.42f111cfcb20a7b640c4604e0f22a486.svg",
+    "index.html": "/edubook-red-social/index.html",
+    "main.5e158b50.js.map": "/edubook-red-social/static/js/main.5e158b50.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e158b50.js"
+  ]
+}
